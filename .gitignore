@@ -1,4 +1,4 @@
-.venv
+ollama-agent
 .env
 credentials.json
 token.json
